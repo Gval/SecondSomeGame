@@ -21,6 +21,6 @@ public class SoldierPawn : MonoBehaviour {
 	}
 
 	public bool isActing() {
-		return act;
+		return true;
 	}
 }
