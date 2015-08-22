@@ -6,3 +6,13 @@
 *.bin
 *.info
 *.bakert
+Library/
+Temp/UnityLockfile
+Temp/UnityTempFile-d1e17dd4cc3447547ac7954acb2759cd
+Temp/UnityTempFile-cdf3f339735b5494788fdc8a7ac3a04f
+Temp/UnityTempFile-95f65c9f05bd26a4a862a1d7657d2027
+Temp/UnityTempFile-0fb2ca3769d10a54fac0ac2e60c9903a
+Temp/UnityTempFile-03d148aeca1333f4bb596bf7896d0ad6
+Temp/
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
