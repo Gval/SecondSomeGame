@@ -4,9 +4,7 @@ using System.Collections.Generic;
 
 public class SoldierPawn : MonoBehaviour {
 
-<<<<<<< HEAD
 
-=======
 	CharacterController controller;
 
 	public float moveSpeed = 5;
@@ -17,7 +15,6 @@ public class SoldierPawn : MonoBehaviour {
 
 	// if true the character is doing something
 	bool act = false;
->>>>>>> Blietzkrieg
 
 	// Use this for initialization
 	void Start () {
