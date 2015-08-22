@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class SoldierPawn : MonoBehaviour {
 
-	bool act = false;
+
 
 	// Use this for initialization
 	void Start () {
